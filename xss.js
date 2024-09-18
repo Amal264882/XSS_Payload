@@ -1,1 +1,1 @@
-console.loge('hacker')
+console.log('hacker')
